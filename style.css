@@ -47,7 +47,7 @@ header ul li a{
 header ul li a:hover{
     color: rgb(21, 0, 253);
 }
-foto{
+.foto{
     display: flex;
     justify-content: center;
 
